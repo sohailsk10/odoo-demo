@@ -1,0 +1,2 @@
+To Run a odd
+-   python odoo-bin -c odoo.conf
